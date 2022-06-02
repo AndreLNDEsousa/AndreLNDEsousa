@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AndreLNDEsousa
-- 👀 I’m interested in ...Trabalhar na area de TI
+- 👀 I’m interested in ...Front-End.
 - 🌱 I’m currently learning ...Analise e Desenvolvimento de sistemas
 - 💞️ I’m looking to collaborate on ... Estagios/ Trabalho
 - 📫 How to reach me ...sanedede@hotmail.com
