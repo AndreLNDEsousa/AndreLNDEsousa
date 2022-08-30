@@ -1,4 +1,4 @@
-# 👋 Olá,sou André Sousa:Sejá bem vindo aos meu projetos!!!
+# 👋 Olá,sou André Sousa:  Sejá bem vindo aos meu projetos!!!
 
 <div align="center">
   <a href="https://github.com/AndreLNDEsousa">
