@@ -36,9 +36,9 @@ You can click the Preview link to take a look at your changes.
 GitHub Pages : https://andrelndesousa.github.io/HTML5-CSS3/
  - Mundo Invertido de "STRANGER THINGS":
 -https://andrelndesousa.github.io/Projeto-frontend-mundo-invertido/
-- Projeto Cordel Moderno :
+- Projeto Cordel Moderno : 
 -https://andrelndesousa.github.io/Projeto-cordel/
  - Projeto Redes Sociais: 
  -https://andrelndesousa.github.io/Projeto-social/
-  - Projeto Android:
- - https://andrelndesousa.github.io/projeto-android/ 
+  - Projeto Android: 
+ -https://andrelndesousa.github.io/projeto-android/ 
