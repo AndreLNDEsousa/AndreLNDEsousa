@@ -43,3 +43,4 @@ GitHub Pages : https://andrelndesousa.github.io/HTML5-CSS3/
 - Projeto Android: 
 -https://andrelndesousa.github.io/projeto-android/ 
 - Projeto Pokedex : Em construção....
+- [https://andrelndesousa.github.io/javascript-developer-m1/POKEDEX](https://andrelndesousa.github.io/javascript-developer-m1/POKEDEX)
