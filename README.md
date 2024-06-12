@@ -29,18 +29,12 @@ AndreLNDEsousa/AndreLNDEsousa is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
   # Projetos Online!!!
-Portifolio : [https://andrelndesousa.github.io/js-developer-portfolio/](https://andrelndesousa.github.io/js-developer-portfolio/)
-- Super Mario : O filme:
--https://andrelndesousa.github.io/PROJETO-MARIO/
-- Mundo Invertido de "STRANGER THINGS":
--https://andrelndesousa.github.io/Projeto-frontend-mundo-invertido/
-- Projeto Cordel Moderno : 
--https://andrelndesousa.github.io/Projeto-cordel/
-- Projeto Redes Sociais: 
--https://andrelndesousa.github.io/Projeto-social/
-- Projeto Login: 
--[https://andrelndesousa.github.io/projeto-android/](https://andrelndesousa.github.io/Projeto-login/) 
-- Projeto Android: 
--https://andrelndesousa.github.io/projeto-android/ 
-- Projeto Pokedex :
-  -[https://andrelndesousa.github.io/javascript-developer-m1/POKEDEX](https://andrelndesousa.github.io/javascript-developer-m1/POKEDEX)
+##  [Portifolio](https://andrelndesousa.github.io/js-developer-portfolio/)
+- [Dev Em Dobro : X-DEVS](https://andrelndesousa.github.io/Projeto_X-DEVS/)
+- [Super Mario : O filme](https://andrelndesousa.github.io/PROJETO-MARIO/)
+- [Mundo Invertido de "STRANGER THINGS"](https://andrelndesousa.github.io/Projeto-frontend-mundo-invertido/)
+- [Projeto Cordel Moderno](https://andrelndesousa.github.io/Projeto-cordel/)
+- [Projeto Redes Sociais](https://andrelndesousa.github.io/Projeto-social/)
+- [Projeto Login](https://andrelndesousa.github.io/Projeto-login/) 
+- [ Android](https://andrelndesousa.github.io/projeto-android/ )
+- [POKEDEX](https://andrelndesousa.github.io/javascript-developer-m1/POKEDEX)
